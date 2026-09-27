@@ -4,6 +4,9 @@ Ce dépôt contient une procédure complète pour installer et configurer une st
 
 L'objectif est de mettre en place une solution permettant de **collecter, surveiller et visualiser des métriques**, avec notamment l'utilisation de **Blackbox Exporter** pour vérifier la disponibilité de services HTTP/HTTPS.
 
+>  **Note :** En fonction de votre environnement et de votre configuration, certaines étapes de l'installation peuvent différer de celles présentées dans ce dépôt.
+
+
 ##  Composants
 
 * **Prometheus** — collecte et stockage des métriques
